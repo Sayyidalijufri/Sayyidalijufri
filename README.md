@@ -22,9 +22,9 @@
   <br>
   📚 I’m currently learning how to build  Website clone 
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Sayyidalijufri/Sayyidalijufri/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: Sayyidalijufri@gmail.com">Sayyidalijufri@gmail.com</a>
 </p>
 
 <hr>
