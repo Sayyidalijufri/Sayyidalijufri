@@ -15,9 +15,6 @@
 <p align="center">
   Hi, I'm Ali, Front-end  from Indonesia
   <br>
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
   💻 I interest with coding and make a website clone
   <br>
   📚 I’m currently learning how to build  Website clone 
