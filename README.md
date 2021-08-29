@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+
 <h2 align="center">I am currently Study in :</h2>
 <h5 align="center">
   <code><a href="https://www.hackerrank.com" title="TheodinProject"><img width="22" src="https://pbs.twimg.com/profile_images/853541927781904384/LKvUgs4u_400x400.jpg">Theodinproject</a></code> <code><a href="https://www.theodinproject.com/users/Sayyid%20ali%20aljufri" title="Theodinproject"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png">Hackerrank</a></code> <code><a href="https://www.youtube.com/channel/UCyz67tAenDLRTDfwvCGHFMg" title="Youtube"><img width="22" src="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2021%2F01%2F54%2F5ffe04aa8a744.png&w=96&h=96&q=100">Youtube</a></code><code><a href="https://www.freecodecamp.org/fcc6771e5a6-f920-44e5-bee0-09e68af29bfb" title="Youtube"><img width="22" src="https://cdn.pngsumo.com/freecodecamp-icon-freecodecamp-png-512_512.png">Freecodecamp</a>
@@ -22,6 +23,7 @@
   <br>
   📫 How to reach me: <a href="mailto: Sayyidalijufri@gmail.com">Sayyidalijufri@gmail.com</a>
 </p>
+
 
 <hr>
 <h2 align="center">🔥 Languages , Frameworks , Tools & Abilities 🔥</h2>
