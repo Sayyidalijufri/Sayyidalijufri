@@ -40,12 +40,12 @@
 <!--   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity3d.svg"></code> -->
     </code>
-  <code><img title="Unreal" height="25" src="https://mp1st.com/wp-content/uploads/2020/05/Unreal-Engine-5.jpg"></code><code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">
+<!--   <code><img title="Unreal" height="25" src="https://mp1st.com/wp-content/uploads/2020/05/Unreal-Engine-5.jpg"></code><code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayyidalijufri&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
   <br><br><br><br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Sayyidalijufri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayyidalijufri&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"> <img src="https://activity-graph.herokuapp.com/graph?username=Sayyidalijufri&theme=react-dark&bg_color=20232a&hide_border=true" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayyidalijufri&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"> <img src="https://activity-graph.herokuapp.com/graph?username=Sayyidalijufri&theme=react-dark&bg_color=20232a&hide_border=true" width="50%"/> -->
 </p>
   </div>
 </p>
