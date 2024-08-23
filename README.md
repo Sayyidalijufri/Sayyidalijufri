@@ -1,6 +1,6 @@
 
 <p align="center">
-  Hi, I'm Ali, Front-end  from Indonesia
+  Hi, I'm Ali, Front-end & M.E.R.N Stack from Indonesia
   <br>
   💻 I interest with coding and make a website clone
   <br>
