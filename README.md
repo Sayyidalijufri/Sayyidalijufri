@@ -1,6 +1,6 @@
 
 <p align="center">
-  Hi, I'm Sayyid, Front-end & M.E.R.N Stack from Indonesia
+  Hi, I'm Sayyid, Front-end & M.E.R.N Stack
   <br>
   💻 I interest with coding and make a website clone
   <br>
